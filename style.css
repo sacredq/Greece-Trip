@@ -1,0 +1,92 @@
+.setcolor{
+    color: black;
+    background-color: rgb(170, 169, 169);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 125px;
+    background-color: rgb(32, 32, 32);
+    font-weight: bold;
+    box-sizing: border-box;
+    display: block;
+    text-align: left;
+    color: white;
+    font-size: 18px;
+}
+
+h3{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 200px;
+    margin-left: 230px;
+}
+
+.overviewList{
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: 245px;
+}
+
+h4{
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 195px;
+    margin-top: 70px;
+}
+
+h5{
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 195px;
+    margin-top: 35px;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 195px;
+    line-height: 1.6;
+}
+
+p a{
+    font-size: 21px;
+    color: rgb(24, 3, 116);
+    font-weight: bold;
+}
+
+img{
+    height: 65%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid rgb(56, 43, 43);
+    border-radius: 15px;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 2px black solid;
+}
+
+.Ending_block {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  height: 125px;
+  background-color: rgb(32, 32, 32);
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: auto;
+
+}
